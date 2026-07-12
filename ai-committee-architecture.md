@@ -1,4 +1,4 @@
-# AI Committee — Architecture (Side-Project Edition)
+# AI Committee — Architecture
 
 A small multi-personality AI decision system: a Go backend sends a question to a handful
 of Python "personality" agents, each answers using its own LLM (local or API), and the
